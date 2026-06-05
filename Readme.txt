@@ -37,6 +37,10 @@ claude plugin marketplace add JuliusBrussee/caveman
 claude plugin install caveman@caveman
 Then restart Claude Code.
 
+################   
+
+text
+npx -y github:JuliusBrussee/caveman -- --all
 After installation, Caveman auto-activates every session for Claude Code.
 
 You trigger it with:
